@@ -1,3 +1,3 @@
-# simpleproject-CalculatorApp
-##Basic HTML, CSS and JavaScript
-##just a simple calculator and not fully functioning
+# Calculator App
+- Basic HTML, CSS and JavaScript
+- Just a simple calculator and not fully functioning
